@@ -1,0 +1,15 @@
+= Development =
+Totobird
+
+= Graphics =
+BigBuckBunny - GUI
+Pixel_Poem - Characters
+Devil's Workshop - Tiles
+Luke - Buttons
+TheWristbandit - Icons
+
+= Fonts =
+At Home - Alien
+Bruce Marx - Black Adder
+Guyisbackable - Conde Squared
+Manfred Klein - Irish Uncialfabeta
